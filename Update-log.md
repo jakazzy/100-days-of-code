@@ -11,6 +11,15 @@ this error:"expected assignment or function call no unused-expressions reactjs "
 1. [To do app](https://github.com/jakazzy/React_Project/tree/master/todoapp)
 2. [PokeTimes](https://github.com/jakazzy/React_Project/tree/master/poketimes)
 
+### R1 Day 2: May 20, 2019 Friday(missed recording yesterday's)
+
+**Today's Progress**: I've built a note taking app using Reactjs. Currently built the ability to Create and Read features of the application
+
+**Thoughts** I love Reactjs struggled a  bit generating ID 's after a new note is created. fixed it using the index generated from iterating using maps.
+
+**Link(s) to work**
+1. [Note app](https://github.com/jakazzy/notes-app)
+
 
 
 
