@@ -21,6 +21,14 @@ this error:"expected assignment or function call no unused-expressions reactjs "
 1. [Note app](https://github.com/jakazzy/notes-app)
 
 
+## R1 Day 3: May 22, 2019 Wednesday
+
+**Today's Progress**: After strglling with this day's unending, I have finally completed the three features of the simple note taking app using Reactjs.The features are edit note, create a card and save a note after creatig or editing one. 
+
+**Thoughts** Sometimes you need assistance to overcome some hurdles. Be persistent. It is possible
+
+**Link(s) to work**
+1. [Note app](https://github.com/jakazzy/notes-app)
 
 
 
