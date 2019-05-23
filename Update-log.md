@@ -23,14 +23,21 @@ this error:"expected assignment or function call no unused-expressions reactjs "
 
 ## R1 Day 3: May 22, 2019 Wednesday
 
-**Today's Progress**: After strglling with this day's unending, I have finally completed the three features of the simple note taking app using Reactjs.The features are edit note, create a card and save a note after creating, a card or editing one and delete a card. All these working using just memory.Hope to persist data in localStorage subsequently. 
+**Today's Progress**: After strugling with this day's unending, I have finally completed the three features of the simple note taking app using Reactjs.The features are edit note, create a card and save a note after creating, a card or editing one and delete a card. All these working using just memory.Hope to persist data in localStorage subsequently. 
 
 **Thoughts** Sometimes you need assistance to overcome some hurdles. Be persistent. It is possible
 
 **Link(s) to work**
 1. [Note app](https://github.com/jakazzy/notes-app)
 
+## R1 Day 4: May 23, 2019 Thursday
 
+**Today's Progress**: Today was awesome. I was busy for most part of the day but i got to create a responsive web application using HTML and CSS. It was really fun. I am not done. I hope to complete the desktop version and review react today. I also got an accountability partner today. Yeah it was fun 
+
+**Thoughts**: Face challenges logically than emotionally. It gets easier by the day. Be persistent. It is possible
+
+**Link(s) to work**
+1. [Fylo landing page](https://github.com/jakazzy/fylo-landing-page)
 
 
 
