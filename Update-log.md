@@ -39,7 +39,15 @@ this error:"expected assignment or function call no unused-expressions reactjs "
 **Link(s) to work**
 1. [Fylo landing page](https://github.com/jakazzy/fylo-landing-page)
 
+## R1 Day 5: May 24, 2019 Friday
 
+**Today's Progress**: Completed the desktop version for Fylo landing page, created a typewriter-like function in JavaScript.  For most part of the day i felt quite tired. 
+
+**Thoughts**: Face challenges logically than emotionally. state just three goals to be completed each day and stick to it. Put pressure on yourself to get it done.
+
+**Link(s) to work**
+1. [Fylo landing page](https://github.com/jakazzy/fylo-landing-page)
+2. [Art gallery](https://github.com/jakazzy/webD-templates)
 
 
 
