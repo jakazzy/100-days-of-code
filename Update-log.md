@@ -50,6 +50,14 @@ this error:"expected assignment or function call no unused-expressions reactjs "
 2. [Art gallery](https://github.com/jakazzy/webD-templates)
 
 
+## R1 Day 6: May 26, 2019 Friday
+
+**Today's Progress**: Completed the tic -tac-toe game in reactjs. 
+
+**Thoughts**: Loved the process. Discovered the usage of npx which is an npm package runner, discovered other ways of passing down props in reactjs and learnt some useful techniques in reactjs
+
+**Link(s) to work**
+1. [tic-tac-toe](https://github.com/jakazzy/tic-toe-toe)
 
 
 
